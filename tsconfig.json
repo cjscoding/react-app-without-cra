@@ -2,11 +2,11 @@
   "compilerOptions": {
     "outDir": "./dist",
     "target": "es5",
-    "module": "esnext",
+    "module": "commonjs",
     "jsx": "react-jsx",
     "noImplicitAny": true,
     "allowSyntheticDefaultImports": true,
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": ["dom", "dom.iterable", "commonjs"],
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
