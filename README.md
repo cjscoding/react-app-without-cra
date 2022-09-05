@@ -3,4 +3,6 @@
 React App without CRA
 
 React
-yarn
+Typescript
+Yarn
+Webpack
