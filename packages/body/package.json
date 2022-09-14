@@ -2,7 +2,7 @@
   "name": "lerna-test-body",
   "version": "1.0.0",
   "description": "> TODO: description",
-  "author": "최지수 <sue@wemakeprice.com>",
+  "author": "최지수",
   "homepage": "https://github.com/cjscoding/react-app-without-cra#readme",
   "license": "ISC",
   "main": "lib/body.js",
