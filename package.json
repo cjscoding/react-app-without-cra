@@ -11,6 +11,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
+  "private": true,
   "devDependencies": {
     "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.8",
@@ -23,7 +24,9 @@
     "core-js": "^3.21.1",
     "css-loader": "^6.7.1",
     "css-minimizer-webpack-plugin": "^3.4.1",
+    "eslint": "^8.23.1",
     "html-webpack-plugin": "^5.5.0",
+    "lerna": "^5.5.1",
     "mini-css-extract-plugin": "^2.6.0",
     "sass": "^1.49.9",
     "sass-loader": "^12.6.0",
@@ -38,5 +41,8 @@
   },
   "browserslist": [
     "ie 11"
+  ],
+  "workspaces": [
+    "packages/*"
   ]
 }

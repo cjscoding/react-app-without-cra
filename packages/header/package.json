@@ -1,0 +1,26 @@
+{
+  "name": "lerna-test-header",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "최지수 <sue@wemakeprice.com>",
+  "homepage": "https://github.com/cjscoding/react-app-without-cra#readme",
+  "license": "ISC",
+  "main": "lib/header.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjscoding/react-app-without-cra.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/header.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/cjscoding/react-app-without-cra/issues"
+  }
+}
